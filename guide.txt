@@ -1,0 +1,16 @@
+Navigating through the interface is now a lot easier, thanks to Droid, a personified program created by Reuben George. 
+Droid will ask you a series of questions. Answer them according to your preference and Droid will do the needful.
+
+To use Droid, open 'user_interface.py' and hit F5'
+
+*How Droid Works:
+When Droid is started, a loading status bar appears. This works by using the time module.
+This is followed by the initial greeting, which chooses between 'Good Morning sir'(before 12'o clock) ,'Good afternoon sir'(between 12'o clock and 4'o clock) and 'Good evening sir'(after 4'o clock)
+This done by using the date.time module.
+   
+Then the user is asked if he has an account. Using if statements, it is determined if the user input is in the positive or the negative. If the user input is in the positive, The user is directed to the Login page.
+Else if the user input is in the negative, the user is directed to the Signup page.
+
+When the user signs up, the user info is stored in a .txt file named user_info, which is in the same directory as the user interface, using file.open method in the append mode for future reference
+When the user logs in, the username and access code are verified against the existing data in the user_info file. In case the username or password is non-existent in the user record, an error is raised (not a built-in error)
+but if the user info is correct, the user is granted access to the user interface.

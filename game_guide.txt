@@ -1,0 +1,50 @@
+*************************************************************************************** INSTRUCTIONS ***********************************************************************************************
+
+-After the game has loaded, you need to enter your username. This will be how you are referred to throughout the game and in the leaderboard.
+
+
+-You will then face a random opponent. You can fight and defeat 5 opponents from the Marvel Universe: Iron Man, Captain America,Thor,Hawkeye and The Hulk. 
+
+
+-You can use 5 types of moves that have varying intensities.
+
+ slap- Reduces health by an initial magnitude of 5, can be used infinite times
+
+ punch- Reduces health by an initial magnitude of 10, can be used only 18 times
+
+ kick- Reduces health by an initial magnitude of 20, can be used only 12 times
+
+ flying kick- Reduces health by an initial magnitude of 50, can be used only 6 times
+
+
+
+
+*Remember that the damage inflicted by a move is doubled after every 5 moves
+
+
+
+
+-The opponents also have different health levels:
+
+ Iron man- Has initial health of 1000
+
+ Captain America- Has initial health of 1000
+
+ Hawkeye- Has initial health of 700
+
+ Thor- Has initial health of 1000 
+
+ The Hulk- Has initial health of 2500. Almost impossible to defeat, The Hulk tends to bring in a volley of attacks right at the beginning sometimes if you are unlucky.
+
+
+
+*You yourself have an initial health of 1000.
+
+
+-If the health bar of you or your opponent is completely depleted, the fight ends and the other guy wins.
+
+-Moves can be used only a limited number of times. Use them wisely.
+
+
+
+
